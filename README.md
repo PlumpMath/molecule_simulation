@@ -43,16 +43,16 @@ Press P to play
 
 * W,A,S,D: Movement
 
-* Q/E: Move Down/Up
+* Q,E: Move Down/Up
 
 * R: reset
 
-* 1,2,3,4,5,6: Switch between elements
+* Numbers 1-6: Switch between elements (names are shown in game)
 
-* Left click: Fire element
+* Left click: Fire specified element
 
 * Right click: Fire carbon element
     
 * Space: fire antimatter (destroys elements)
 
-* T: fire laser
+* T: fire laser (moves molecules further away)
