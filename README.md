@@ -23,6 +23,8 @@ Press P to play
 
 * W,A,S,D: Movement
 
+* Q/E: Move Down/Up
+
 * R: reset
 
 * 1,2,3,4,5,6: Switch between elements
