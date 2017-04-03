@@ -9,6 +9,23 @@ those observed in reality.
 
 Another feature of this simulation is automatic naming of simple molecules based on their component elements.   
 
+## Screenshots ##
+
+Note: This is a 3D simulation, even though the models appear 2D in these screenshots.
+
+#### Methane ####
+
+![Methane](methane.png "Methane")
+
+#### Methanol ####
+
+![Methanol](methanol.png "Methanol")
+
+#### Ethene ####
+
+![Ethene](ethene.png "Ethene")
+
+
 ### Installation ###
 
 Install blender from https://www.blender.org/ 
