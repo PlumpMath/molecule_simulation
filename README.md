@@ -28,6 +28,14 @@ Note: This is a 3D simulation, even though the models appear 2D in these screens
 
 ![Ethene](ethene.png "Ethene")
 
+#### Cyclohexane ####
+
+![Cyclohexane](cyclohexane.png "Cyclohexane")
+
+Cyclohexane at another angle
+
+![Cyclohexane at another angle](cyclohexane_side.png "Cyclohexane at another angle")
+
 
 ### Installation ###
 
